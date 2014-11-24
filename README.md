@@ -5,7 +5,7 @@
 -Douglas Adams, The Restaurant at The End of The Universe
 
 #Programming Languages
-This is one of the following courses to *Introduction to Computer Science*, which dealt mostly in **Java**. This course introduced the use of **C++** and other important Computer Science concepts more directly related to programming languages themselves and their functioning rather than coding styles or how to code. All this was done for educational purposes in **Java** and **C++**, and is licensed under the **MIT License**.
+This is one of the following courses to *Introduction to Computer Science*, which dealt mostly in **Java**, so course introduced the use of **C++** and **C#**. It also dealth other important Computer Science concepts more directly related to programming languages themselves and their functioning rather than coding styles or paradigms. All this was done for educational purposes in **Java** and **C++**, and is licensed under the **MIT License**.
 
 ###Short Problems
 These were 10 simple math problems to be implemented in the language each student preferred, in my case, it was **C++**
