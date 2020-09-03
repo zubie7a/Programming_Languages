@@ -1,7 +1,7 @@
 ## Santiago Zubieta, Pedro J. Ortiz, Santiago Palacio, Juan D. Henao
 #### Universidad EAFIT, 2011-2
 
-# Programming Languages
+## Programming Languages
 This is one of the courses following **Introduction to Computer Science**. This deals mostly in **Java** but also **C++**. It also dealt with other important Computer Science concepts more directly related to programming languages themselves and their functioning rather than Theoretical CS, or focusing on a specific paradigm.
 
 This was made for educational purposes and is licensed under the **MIT License**.
