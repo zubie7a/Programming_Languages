@@ -2,21 +2,22 @@
 #### EAFIT University, 2011-2
 
 # Programming Languages
-This is one of the courses following *Introduction to Computer Science*, which dealt mostly in **Java** but also **C++**. It also dealth other important Computer Science concepts more directly related to programming languages themselves and their functioning rather than theoretical CS, or specific paradigms.
+This is one of the courses following **Introduction to Computer Science**. This deals mostly in **Java** but also **C++**. It also dealt with other important Computer Science concepts more directly related to programming languages themselves and their functioning rather than Theoretical CS, or focusing on a specific paradigm.
 
 This was made for educational purposes and is licensed under the **MIT License**.
 
 ### Short Problems
-These were 10 simple math problems to be implemented in the language each student preferred, in my case, it was **C++**.
+These were 10 math problems to be implemented in the language each student preferred, in my case, **C++**.
+
+### Pre-Project
+Before the project, a lexical analyzer was made in **C++** so that text queries where made asked for price, total calory intake or both values, for whatever combination of ingredients or items made in the order, or asking for all the possible combinations of orders putting limits on money, limits on calory intake, or strictly including or excluding certain items.
 
 ### Course Project - Expert Waiter
-This is an expert system done in **Java**, which is a **GUI** for a **restaurant** which helps waiters to manage the different charges for the users, and helps users to select what they want to buy according to parameters such as money, calory intake limit, or ingredients to exclude, saving time on orders. Then a print-ready receipt is generated.
+This is an "Expert System" done in **Java**, which is a **GUI** for a **restaurant** which helps waiters to manage the different charges for the users, and helps users to select what they want to buy according to parameters such as money, calory intake limit, or ingredients to exclude, saving time on orders. Then a print-ready receipt is generated.
 
 ### Video Demonstration
 [![](https://i.imgur.com/61YXQWD.png)](https://www.youtube.com/watch?v=gNv8uczKOQc)
 
-### Pre-Project
-Before the project, a lexical analyser was made in **C++** so that text queries where made asked for price, total calory intake or both values, for whatever combination of ingredients or items made in the order, or asking for all the possible combinations of orders putting limits on money, on calory intake, or strictly including or excluding a certain items.
 
 |[![02]][02]|[![03]][03]|
 |----|----|
